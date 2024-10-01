@@ -11,6 +11,6 @@ with(this){return _c('h3',{attrs:{"id":"project-pawrtal-orbital"}},[_v("Project:
 with(this){return _c('ul',[_c('li',[_c('strong',[_v("Tools")]),_v(":\n"),_c('ul',[_c('li',[_v("App integration using Flutter and Dart")]),_v(" "),_c('li',[_v("Integrated a third party library (Riverpod) to the project")]),_v(" "),_c('li',[_v("Integrated a cloud hosted database and remote authentication (Firebase, Firestore)")]),_v(" "),_c('li',[_v("Utilised Git for version control")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 1 Oct 2024, 16:15:26 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 1 Oct 2024, 16:26:14 GMT+8]")])])])}
 }];
   

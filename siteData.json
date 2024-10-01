@@ -11,7 +11,7 @@
         "varun-shukla": "Varun Shukla",
         "erwin-soh": "Erwin Soh",
         "simon-tong": "Simon Tong",
-        "james-doe": "James Doe"
+        "ang-qi-jun": "Ang Qi Jun"
       },
       "headingKeywords": {}
     },
@@ -148,6 +148,13 @@
       "title": "Jaymeson Koh's Project Portfolio Page",
       "headings": {
         "project-fintrack-by-finnovations": "Project: FinTrack by Finnovations"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/qijun.md",
+      "headings": {
+        "ang-qi-jun": "Ang Qi Jun"
       },
       "headingKeywords": {}
     },
