@@ -10,7 +10,7 @@
         "jaymeson-koh": "Jaymeson Koh",
         "varun-shukla": "Varun Shukla",
         "erwin-soh": "Erwin Soh",
-        "jean-doe": "Jean Doe",
+        "simon-tong": "Simon Tong",
         "james-doe": "James Doe"
       },
       "headingKeywords": {}
@@ -148,6 +148,13 @@
       "title": "Jaymeson Koh's Project Portfolio Page",
       "headings": {
         "project-fintrack-by-finnovations": "Project: FinTrack by Finnovations"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/uniqly.md",
+      "headings": {
+        "project-pawrtal-orbital": "Project: Pawrtal (Orbital)"
       },
       "headingKeywords": {}
     },
