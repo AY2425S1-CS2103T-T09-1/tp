@@ -107,13 +107,15 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "ab-3-user-guide": "AB-3 User Guide",
+        "internbuddy-user-guide": "InternBuddy User Guide",
         "quick-start": "Quick start",
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-company-add": "Adding a company: add",
         "listing-all-companies-list": "Listing all companies : list",
         "editing-a-company-edit": "Editing a company : edit",
+        "adding-application-record-for-a-company-apply": "Adding application record for a company: apply",
+        "withdrawing-application-for-a-company-withdraw": "Withdrawing application for a company: withdraw",
         "locating-companies-by-name-find": "Locating companies by name: find",
         "deleting-a-company-delete": "Deleting a company : delete",
         "clearing-all-entries-clear": "Clearing all entries : clear",
@@ -131,7 +133,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "interbuddy": "InterBuddy"
       },
       "headingKeywords": {}
     },
