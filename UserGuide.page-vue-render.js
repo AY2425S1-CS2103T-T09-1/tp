@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"sticky":""
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('h1',{attrs:{"id":"internbuddy-user-guide"}},[_v("InternBuddy User Guide"),_c('img',{staticStyle:{"vertical-align":"middle"},attrs:{"src":"/src/main/resources/images/cat2.png","alt":"Logo","width":"50","height":"50"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#internbuddy-user-guide","onclick":"event.stopPropagation()"}})])}
+with(this){return _c('h1',{attrs:{"id":"internbuddy-user-guide"}},[_v("InternBuddy User Guide"),_c('img',{staticStyle:{"vertical-align":"middle"},attrs:{"src":"/tp/images/InternBuddyLogo.png","alt":"Logo","width":"40","height":"40"}}),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#internbuddy-user-guide","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("InternBuddy is a "),_c('strong',[_v("desktop app for managing contacts, optimized for use via a Command Line Interface")]),_v(" (CLI) while still having the benefits of a Graphical User Interface (GUI). If you can type fast, InternBuddy can get your contact management tasks done faster than traditional GUI apps.")])}
@@ -173,6 +173,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("CLI")]),_v(" (Command Line 
 with(this){return _c('p',[_c('a',{attrs:{"href":"#internbuddy-user-guide"}},[_v("back to top")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 22 Oct 2024, 12:07:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Tue, 22 Oct 2024, 12:28:51 GMT+8]")])])])}
 }];
   
