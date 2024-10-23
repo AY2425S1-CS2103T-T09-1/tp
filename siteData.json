@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "internbuddy-developer-guide": "InternBuddy Developer Guide",
+        "internbuddy-developer-guide": "\n    \n    InternBuddy Developer Guide\n",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -107,7 +107,7 @@
       "src": "UserGuide.md",
       "title": "User Guide",
       "headings": {
-        "internbuddy-user-guide": "InternBuddy User Guide",
+        "internbuddy-user-guide": "\n    \n    InternBuddy User Guide\n",
         "command-summary": "Command summary",
         "quick-start": "Quick start",
         "features": "Features",
