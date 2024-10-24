@@ -119,6 +119,8 @@
         "deleting-a-company-delete": "Deleting a company : delete",
         "editing-a-company-edit": "Editing a company : edit",
         "exiting-the-program-exit": "Exiting the program : exit",
+        "adding-a-company-to-favourites-fav": "Adding a company to favourites: 'fav'",
+        "removing-a-company-from-favourites-unfav": "Removing a company from favourites: 'unfav'",
         "locating-companies-by-name-find": "Locating companies by name: find",
         "viewing-help-help": "Viewing help : help",
         "listing-all-companies-list": "Listing all companies : list",
