@@ -64,7 +64,17 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "display-help": "Display help",
+        "adding-a-company-to-favourites": "Adding a company to favourites",
+        "removing-a-company-from-favourites": "Removing a company from favourites",
+        "finding-a-company": "Finding a company",
+        "displaying-all-companies": "Displaying all companies",
+        "adding-a-company": "Adding a company",
+        "editing-a-company": "Editing a company",
         "deleting-a-company": "Deleting a company",
+        "adding-applications-to-a-company": "Adding applications to a company",
+        "editing-application-status": "Editing application status",
+        "removing-application-from-a-company": "Removing application from a company",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}
