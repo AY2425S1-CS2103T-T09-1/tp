@@ -110,8 +110,12 @@
       "title": "User Guide",
       "headings": {
         "internbuddy-user-guide": "\n    \n    InternBuddy User Guide\n",
-        "command-summary": "Command summary",
+        "welcome-to-internbuddy": "Welcome to InternBuddy!",
+        "table-of-contents": "Table of Contents",
+        "overview": "Overview",
+        "how-to-use-our-user-guide": "How to use our User Guide",
         "quick-start": "Quick start",
+        "command-summary": "Command summary",
         "features": "Features",
         "adding-a-company-add": "Adding a company: add",
         "adding-application-record-for-a-company-apply": "Adding application record for a company: apply",
