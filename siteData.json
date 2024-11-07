@@ -55,8 +55,6 @@
         "update-feature": "Update feature",
         "find-feature": "Find feature",
         "favourite-unfavourite-feature": "Favourite/unfavourite feature",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
