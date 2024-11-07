@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "apply-feature": "Apply feature",
         "update-feature": "Update feature",
+        "find-feature": "Find feature",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
