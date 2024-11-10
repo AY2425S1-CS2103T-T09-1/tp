@@ -162,18 +162,18 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/erwin.md",
-      "title": "Erwin's Project Portfolio Page",
+      "src": "team/blanklogic.md",
+      "title": "Jaymeson Koh's Project Portfolio Page",
       "headings": {
-        "orbital-project-rogue-run": "Orbital Project: Rogue Run"
+        "project-internbuddy": "Project: InternBuddy"
       },
       "headingKeywords": {}
     },
     {
-      "src": "team/jaymeson.md",
-      "title": "Jaymeson Koh's Project Portfolio Page",
+      "src": "team/erwin.md",
+      "title": "Erwin's Project Portfolio Page",
       "headings": {
-        "project-fintrack-by-finnovations": "Project: FinTrack by Finnovations"
+        "orbital-project-rogue-run": "Orbital Project: Rogue Run"
       },
       "headingKeywords": {}
     },
