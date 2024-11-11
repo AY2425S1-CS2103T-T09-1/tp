@@ -53,6 +53,8 @@
         "implementation": "Implementation",
         "apply-feature": "Apply feature",
         "update-feature": "Update feature",
+        "withdraw-feature": "Withdraw feature",
+        "update-feature-2": "Update feature",
         "find-feature": "Find feature",
         "view-feature": "View feature",
         "favourite-unfavourite-feature": "Favourite/unfavourite feature",
