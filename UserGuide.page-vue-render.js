@@ -125,7 +125,7 @@ with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticC
 with(this){return _c('h3',{attrs:{"id":"miscellaneous-commands"}},[_v("Miscellaneous commands"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#miscellaneous-commands","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format, Examples")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('a',{attrs:{"href":"#clearing-all-data-clear"}},[_c('strong',[_v("Help")])])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('a',{attrs:{"href":"#viewing-help-help"}},[_c('strong',[_v("Clear")])])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")])])]),_v(" "),_c('tr',[_c('td',[_c('a',{attrs:{"href":"#exiting-the-program-exit"}},[_c('strong',[_v("Exit")])])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])])])])])}
+with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Action")]),_v(" "),_c('th',[_v("Format, Examples")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('a',{attrs:{"href":"#viewing-help-help"}},[_c('strong',[_v("Help")])])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("help")])])]),_v(" "),_c('tr',[_c('td',[_c('a',{attrs:{"href":"#clearing-all-data-clear"}},[_c('strong',[_v("Clear")])])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("clear")])])]),_v(" "),_c('tr',[_c('td',[_c('a',{attrs:{"href":"#exiting-the-program-exit"}},[_c('strong',[_v("Exit")])])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")])])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('a',{attrs:{"href":"#internbuddy-user-guide"}},[_v("back to top")])])}
@@ -440,6 +440,6 @@ with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"id":"address-book"}}),_c('st
 with(this){return _c('p',[_c('a',{attrs:{"href":"#internbuddy-user-guide"}},[_v("back to top")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 23:12:08 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 23:12:37 GMT+8]")])])])}
 }];
   
